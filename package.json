@@ -4,7 +4,7 @@
   "description": "testing gh webhooks",
   "main": "github_webhook.js",
   "scripts": {
-    "start": "node github_webhooks.js"
+    "start": "node github_webhook.js"
   },
   "engines": {
     "node": "8.9.4"
