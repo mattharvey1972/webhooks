@@ -4,7 +4,7 @@
   "description": "testing gh webhooks",
   "main": "github_webhook.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node github_webhooks.js"
   },
   "engines": {
     "node": "8.9.4"
